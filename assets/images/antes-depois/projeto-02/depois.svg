@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" role="img" aria-label="Espaco reservado para a foto depois do projeto">
+  <title>[INSERIR FOTO DEPOIS]</title>
+  <defs>
+    <linearGradient id="fundo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f4f6f8"/>
+      <stop offset="1" stop-color="#dbe3ea"/>
+    </linearGradient>
+    <linearGradient id="vidro" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".62"/>
+      <stop offset=".55" stop-color="#c6d6e2" stop-opacity=".38"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity=".55"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#fundo)"/>
+  <g fill="none" stroke="#93a3b0" stroke-width="6" stroke-opacity=".7">
+    <rect x="330" y="180" width="940" height="640"/>
+    <path d="M800 180 V820"/>
+    <path d="M330 620 H1270"/>
+  </g>
+  <g opacity=".8">
+    <rect x="330" y="180" width="470" height="440" fill="url(#vidro)"/>
+    <rect x="800" y="180" width="470" height="440" fill="url(#vidro)"/>
+  </g>
+  <path d="M330 180 L1270 620 L1270 820 L330 820 Z" fill="#ffffff" opacity=".22"/>
+  <text x="800" y="500" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="150" font-weight="700" letter-spacing="26" fill="#5f7d90">DEPOIS</text>
+  <text x="800" y="570" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="400" letter-spacing="6" fill="#5d6a75">IMAGEM DEMONSTRATIVA &#8212; SUBSTITUIR PELA FOTO REAL</text>
+</svg>

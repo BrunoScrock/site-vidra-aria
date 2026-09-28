@@ -1,0 +1,52 @@
+# COMAC Vidraçaria
+
+Empresa especializada em soluções em vidro para projetos residenciais e
+comerciais, com foco em acabamento, precisão e sofisticação.
+
+Site institucional estático (HTML, CSS e JavaScript), publicado no GitHub Pages.
+
+## Conteúdo do site
+
+- Hero com imagem e chamada para orçamento via WhatsApp
+- Sobre a empresa
+- Nossos serviços (estrutura editável, confirmar antes da publicação)
+- Antes e Depois (comparador de imagens por projeto)
+- Projetos realizados (portfólio com filtros e galeria)
+- Diferenciais
+- Processo de atendimento em 5 etapas
+- Nosso trabalho (fotos da empresa — espaço reservado para fotos reais)
+- Seção de confiança e estatísticas
+- Solicitação de orçamento (formulário que monta a mensagem e abre o WhatsApp)
+- Localização, horário e área de atendimento
+- Contato
+
+## Serviços
+
+[INSERIR SERVIÇOS CONFIRMADOS]
+
+Estrutura atual em edição (js/config.js): box de vidro, portas de vidro,
+janelas e divisórias, fachadas de vidro, espelhos e projetos personalizados.
+Confirmar com a empresa antes da publicação.
+
+## Localização
+
+[INSERIR ENDEREÇO]
+
+[INSERIR CIDADE]
+
+[INSERIR HORÁRIO DE FUNCIONAMENTO]
+
+## Área de atendimento
+
+[INSERIR CIDADES/REGIÕES ATENDIDAS]
+
+## Contato
+
+WhatsApp: [INSERIR WHATSAPP]
+Telefone: [INSERIR TELEFONE]
+E-mail: [INSERIR E-MAIL]
+Instagram: [INSERIR INSTAGRAM]
+
+## Site
+
+[INSERIR URL]
